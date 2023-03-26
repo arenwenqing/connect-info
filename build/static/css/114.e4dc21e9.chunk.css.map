@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/114.e4dc21e9.chunk.css","mappings":"AAAA,sBACE,eAAgB,CAChB,iBAAkB,CAFpB,2CAKI,iBAAkB","sources":["pages/Index/index.scss"],"sourcesContent":[".end-customer-wrapper {\n  background: #fff;\n  border-radius: 5px;\n\n  .end-customer-filter {\n    padding: 20px 10px;\n  }\n}"],"names":[],"sourceRoot":""}
